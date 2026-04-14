@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Lubbock, Texas with a population of over 257k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in Lubbock, Texas, US",
+  "export_job_id": "2119f304-7659-448c-a295-99e5d01c9ed8",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 667612,
+  "location_name": "Lubbock",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-lubbock-texas-us-sample-667612",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/667612/beamstation_667612_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 11.59,
+  "sample_records": 76,
+  "sample_sha256": "39a9034e83a33d7f5a2edaadd0bcbd474c2fbc9a419d87d031b5ad11136b904d",
+  "sample_size_bytes": 271398,
+  "total_records": 656,
+  "updated_at": "2026-03-31T15:16:16.906105+00:00"
+}
