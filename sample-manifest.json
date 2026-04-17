@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2119f304-7659-448c-a295-99e5d01c9ed8",
+  "export_job_id": "65de479a-a411-49ae-a716-959502f5164c",
   "id_short": 667612,
-  "published_at": "2026-04-14T19:32:56Z",
+  "published_at": "2026-04-17T19:51:24Z",
   "repo_name": "all-restaurants-in-lubbock-texas-us-sample-667612",
   "sample_asset_name": "beamstation_667612_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/667612/beamstation_667612_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_records": 76,
   "sample_sha256": "39a9034e83a33d7f5a2edaadd0bcbd474c2fbc9a419d87d031b5ad11136b904d",
   "sample_size_bytes": 271398,
-  "total_records": 656
+  "total_records": 761
 }
